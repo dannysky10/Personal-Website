@@ -1,0 +1,128 @@
+body{
+    background-image: url(../images/code4.png); background-repeat: no-repeat;
+	width:100%;
+	height: 100%;
+	position: relative;
+	background-attachment: fixed;
+	background-position: right;
+	background-size: cover;
+
+}
+
+#header{
+	display: none;
+	text-align: center;
+	font-size: 32px;
+	line-height: 32px;
+	font-family: sans-serif;
+	font-weight: 300;
+	color: white;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.7);
+}
+a:link{
+ 	color: none; text-decoration: none;
+ }
+ a:visited{
+ 	color:white;
+ }
+ a:hover{
+ 	color: #FFA500;
+	text-decoration:none;
+}
+h3{
+    background-color: black;
+    color: white;
+	padding-top:30px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: sans-serif;
+	font-weight: lighter;
+	text-align: center;
+	width: 300px;
+	margin: auto;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+#header2Fade{
+	display: none;
+	text-align: center;
+
+}
+.setTable{
+	text-align: center;
+}
+strong{
+	font-weight: bolder;
+	font-family: sans-serif;
+
+	
+}
+h4{
+	font-weight: bolder;
+	font-family: sans-serif;
+}
+
+
+}
+table{
+	font-family: sans-serif;
+	font-weight: lighter;
+	border-collapse: separate;
+	border-spacing: 60px 20px;
+}
+
+#listFont{
+	font-family: sans-serif;
+	font-weight: lighter;
+}
+
+#education{
+
+	font-family: sans-serif;
+	font-weight: bolder;
+
+}
+
+
+.setHome{
+	position: relative;
+	border:1px ridge #404040;
+	width: 100%;
+	
+	padding-top: 120px;
+	padding-left: 270px;
+	padding-right: 270px;
+	background-color: #FA8072;
+	top: 332px;
+	
+}
+
+#pastShows{
+	margin-top: 100px;
+	padding-left: 20px;
+	color: white;
+	font-weight: lighter;
+	font-family: sans-serif;
+}
+#currentShows{
+	color: white;
+	padding-left: 20px;
+	font-weight: lighter;
+	font-family: sans-serif;
+}
+#Lists{
+	font-weight: lighter;
+	font-family: sans-serif;
+}
+
+
+
+#Parent{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+}

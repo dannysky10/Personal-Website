@@ -1,0 +1,232 @@
+body{
+    background-image: url(../images/code4.png); background-repeat: no-repeat;
+	width:50%;
+	height: 50%;
+	position: relative;
+	background-attachment: fixed;
+	background-position: right;
+	background-size: cover;
+
+}
+
+#setImage{
+	background-image: url(../images/code4.png); background-repeat: no-repeat;
+	position: absolute;
+	z-index:0;left:0;top:0;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+
+a:link{
+ 	color: none; text-decoration: none;
+ }
+ a:visited{
+ 	color:white;
+ }
+ a:hover{
+ 	color: #FFA500;
+	text-decoration:none;
+}
+img:link{
+	color: #FFA500;
+}
+
+
+.formValidation{
+   
+     padding: 25px;
+}
+
+
+
+
+.setNameData{
+	border:2px solid Grey;
+	width: 400px;
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-right: 30px;
+	margin-top: 50px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+
+#header{
+	display: none;
+	text-align: center;
+	font-size: 32px;
+	font-family: sans-serif;
+	line-height: 32px;
+	font-weight: 300;
+	color: white;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.7);
+}
+#header2Fade{
+	display: none;
+	text-align: center;
+}
+
+h2{
+	background-color: #00FFFF;
+	padding-top:30px;
+	padding-bottom: 20px;
+	font-family: sans-serif;
+	font-weight: lighter;
+	text-align: center;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+
+#temp{
+	position: relative;
+	top: -10px;
+	background-color: #3c4543;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+table{
+
+	float: right;
+	font-family: Verdana;
+	font-weight:lighter;
+	border-collapse: separate;
+    border-spacing: 10px 50px;
+	margin-right: 200px;
+	margin-top: 80px;
+	font-size: 20px;
+	/*border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;*/
+}
+.setParagraph{
+	font-family: sans-serif;
+	font-weight: lighter;
+	color: #404040
+}
+
+
+.setUnderline{
+
+	color:Grey;
+
+}
+.setImage{
+
+	height: 500px;
+	text-align: left;
+	margin-top: 60px;
+	margin-left: 200px;
+	border: 2px solid Grey;
+}
+.setContact{
+	position: relative;
+	background-color: rgba(255,255,255,0.9);
+	text-align: center;
+	border:1px ridge #404040;
+	width: 500px;
+	border-bottom-width: 20px:;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	padding-left: 70px;
+	padding-right: 70px;
+	margin: auto;
+	margin-right: auto;
+	margin-left: auto;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+	top: 50px;
+	
+}
+.setHome{
+	position: absolute;
+	border:1px ridge #404040;
+	width: 800px;
+	margin-top: 500px;
+	padding-top: 120px;
+	padding-left: 270px;
+	padding-right: 270px;
+	background-color: #00FFFF;
+	top: 800px;
+	left: 0px;
+	right: 0px;
+}
+
+
+
+.setParagraph{
+	margin-top: 0px;
+	font-family: 
+}
+.setSubmit{
+	background-color: none;
+	font-family: Verdana;
+}
+.paging{
+    cursor: pointer; 
+    background-color: transparent;border:1px solid black;
+    text-decoration:none;
+    color: black; 
+    font-weight:bold;
+}
+h3{
+    background-color: black;
+    color: white;
+	padding-top:30px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: sans-serif;
+	font-weight: lighter;
+	text-align: center;
+	width: 300px;
+	margin: auto;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+
+form{
+margin:auto;
+margin-top: 20px;
+position:relative;
+width:310px;
+height:450px;
+font-family: Verdana;
+font-size: 14px;
+line-height: 24px;
+font-weight: lighter;
+color: black;
+margin-left: 50px;
+text-decoration: none;
+border-radius: 10px;
+border-top-right-radius: 0px;
+padding:10px;
+padding-right: 10px;
+border: 1px solid #999;
+border: inset 1px solid #333;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+.settextSize{
+	font-size: 14px;
+}
+#textBox{
+	height: 30px;
+	width: 200px;
+}
+#messageBox{
+	height: 140px;
+	width: 300px;
+}
+
+
+

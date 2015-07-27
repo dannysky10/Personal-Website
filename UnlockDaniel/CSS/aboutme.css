@@ -1,0 +1,117 @@
+body{
+    background-image: url(../images/code4.png); background-repeat: no-repeat;
+	width:100%;
+	height: 100%;
+	position: relative;
+	background-attachment: fixed;
+	background-position: right;
+	background-size: cover;
+
+}
+
+#header{
+	display: none;
+	text-align: center;
+	font-size: 32px;
+	line-height: 32px;
+	font-weight: 300;
+	color: white;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.7);
+}
+#fadeLayout{
+	display: none;
+	
+}
+ a:link{
+ 	color: none; text-decoration: none;
+ }
+ a:visited{
+ 	color:white;
+ }
+ a:hover{
+ 	color: #FFA500;
+	text-decoration:none;
+}
+
+#header2Fade{
+	display: none;
+	text-align: center;
+
+}
+#circle {
+	height: 600px;
+    width: 600px;
+    display: inline-block;
+    background-color:#FA8072;
+    border-radius: 50px;
+    border-top-left-radius: 50px;
+    border: 2px groove ;
+    margin-top: 130px;
+    margin-left: 350px;
+}
+.aboutHeader{
+	background-color: #CD5C5C;
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: lighter;
+	padding-top:30px;
+	left: 50px;
+	padding-bottom: 20px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px; 
+	/*color: #404040*/
+}
+#Parent{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+}
+.setLayout{
+	
+	position: relative;
+	background-color: rgba(255,255,255,0.9);
+	width: 500px;
+	top: 50px;
+	padding: 0px;
+	height: 670px;
+	border:1px ridge #404040;
+	border-bottom-width: 10%;
+	padding-top: 1%;
+	text-align: center;
+	margin: auto;
+	margin-right: auto;
+	margin-left: auto;
+	
+	padding-left: 70px;
+	padding-right: 70px;
+	border-bottom-left-radius:10%;
+	border-bottom-right-radius:10%;
+	
+}
+h3{
+    background-color: black;
+    color: white;
+	padding-top:30px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: sans-serif;
+	font-weight: lighter;
+	text-align: center;
+	width: 300px;
+	margin: auto;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+
+.setParagraph{
+	line-height: 2em;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bolder;
+	color: #404040
+}
