@@ -1,5 +1,5 @@
 body{
-    background-image: url(../images/code4.png); background-repeat: no-repeat;
+        background-image: url(../images/code4.png); background-repeat: no-repeat;
 	width:50%;
 	height: 50%;
 	position: relative;
@@ -98,12 +98,11 @@ table{
 	font-family: Verdana;
 	font-weight:lighter;
 	border-collapse: separate;
-    border-spacing: 10px 50px;
+        border-spacing: 10px 50px;
 	margin-right: 200px;
 	margin-top: 80px;
 	font-size: 20px;
-	/*border-bottom-right-radius: 15px;
-	border-bottom-left-radius: 15px;*/
+	
 }
 .setParagraph{
 	font-family: sans-serif;
@@ -176,8 +175,8 @@ table{
     font-weight:bold;
 }
 h3{
-    background-color: black;
-    color: white;
+        background-color: black;
+        color: white;
 	padding-top:30px;
 	padding-bottom: 20px;
 	padding-left: 20px;
@@ -194,27 +193,27 @@ h3{
 }
 
 form{
-margin:auto;
-margin-top: 20px;
-position:relative;
-width:310px;
-height:450px;
-font-family: Verdana;
-font-size: 14px;
-line-height: 24px;
-font-weight: lighter;
-color: black;
-margin-left: 50px;
-text-decoration: none;
-border-radius: 10px;
-border-top-right-radius: 0px;
-padding:10px;
-padding-right: 10px;
-border: 1px solid #999;
-border: inset 1px solid #333;
-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+         margin:auto;
+         margin-top: 20px;
+         position:relative;
+         width:310px;
+         height:450px;
+         font-family: Verdana;
+         font-size: 14px;
+         line-height: 24px;
+         font-weight: lighter;
+         color: black;
+         margin-left: 50px;
+         text-decoration: none;
+         border-radius: 10px;
+         border-top-right-radius: 0px;
+         padding:10px;
+         padding-right: 10px;
+         border: 1px solid #999;
+         border: inset 1px solid #333;
+         box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+         box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+         box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
 }
 .settextSize{
 	font-size: 14px;
